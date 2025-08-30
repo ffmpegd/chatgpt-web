@@ -35,6 +35,8 @@
 	- [License](#license)
 ## 介绍
 
+新的 React 前端正在 `react` 目录中开发，可通过 `pnpm dev:react` 启动。
+
 支持双模型，提供了两种非官方 `ChatGPT API` 方法
 
 | 方式                                          | 免费？ | 可靠性     | 质量 |
